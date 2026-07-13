@@ -62,6 +62,17 @@ python main.py
 Tables are created automatically on startup. Open the interactive docs at
 **http://localhost:8000/docs**.
 
+## Single-File Study Version
+
+For memorizing the whole backend in one simplified Python file, see:
+
+```bash
+python single_file_fastapi_crud_study_app.py
+```
+
+That file keeps the same FastAPI, Pydantic, SQLAlchemy, CRUD, dependency
+injection, CORS, and response-model ideas in one interview-friendly script.
+
 ## Endpoints
 
 | Method | Path              | Description                          |
